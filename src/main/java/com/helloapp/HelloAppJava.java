@@ -16,7 +16,6 @@ public class HelloAppJava {
             }
             names.append(name);
         }
-
         System.out.println("Hello, " + names + "!");
     }
 }
